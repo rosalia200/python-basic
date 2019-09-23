@@ -4,4 +4,4 @@
 #data types
   #numbrs-intergers,float,double
   #boolean-True,False
-  #strings
+  #stringsp
